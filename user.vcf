@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Denzin;Elizabeth;;;
+FN: Elizabeth  Denzin 
+ORG:Corrections Victoria;
+TITLE:Senior Policy Officer\nEducation, Training and Employment Branch
+EMAIL;type=INTERNET;type=WORK;type=pref:Elizabeth.Denzin@justice.vic.gov.au
+TEL;type=WORK;type=VOICE:+61 3 86846630
+item1.ADR;type=WORK;type=pref:;;121 Exhibition Street\nMelbourne\,3000;Vic
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:https://www.corrections.vic.gov.au/
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
